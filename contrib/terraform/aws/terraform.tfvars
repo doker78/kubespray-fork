@@ -28,7 +28,7 @@ aws_etcd_size      = "t3.medium"
 aws_etcd_disk_size = 50
 
 aws_kube_worker_num       = 4
-aws_kube_worker_size      = "t3.medium"
+aws_kube_worker_size      = "t3.large"
 aws_kube_worker_disk_size = 50
 
 #Settings AWS ELB
